@@ -34,12 +34,30 @@
 
 ### Evaluation Criteria
 
-| S.No | Assessment Component             | CO1 | CO2 | CO3 | CO4 | CO5 | CO6 | Total |
+| S.No.| Assessment Component             | CO1 | CO2 | CO3 | CO4 | CO5 | CO6 | Total |
 |------|:---------------------------------|:---:|:---:|:---:|:---:|:---:|:---:|:-----:|
-| 1    | Group Project                    | X   | X   |  X  |     |     |     | 20    |
+| 1    | Compassion Driven Project (Group)| X   | X   |  X  |     |     |     | 20    |
 | 2    | Class Participation              |     |     |     | 40  |     |     | 40    |
-| 3    | Individual Reflective Exercise   |     |     |     |     |  10 | 10  | 20    |
+| 3    | Reflective Exercise (Individual) |     |     |     |     |  10 | 10  | 20    |
 | 4    | End-term Examination             | 4   | 4   | 4   |     | 4   |  4  | 20    |
+
+#### Class Participation (CP) - 40 Marks
+
+|  S.No. | Assessment Component             | Marks |
+|--------|:---------------------------------|:-----:|
+| CP1    | Attendance                       | 20    |
+| CP2    | 21 Days                          | 10    |
+| CP3    | 5 Dimensions                     | 05    |
+| CP4    | Art from Heart                   | 05    |
+
+#### Reflective Journal (RJ) - 20 Marks
+
+|  S.No. | Assessment Component             | Marks |
+|--------|:---------------------------------|:-----:|
+| RJ1    | Innocence Activity               | 05    |
+| RJ2    | Student Challenges               | 05    |
+| RJ3    | Reading Materials                | 05    |
+| RJ4    | Compassion Moment                | 05    |
 
 ### Dates and Deadlines
 
